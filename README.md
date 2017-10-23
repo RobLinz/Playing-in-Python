@@ -1,13 +1,16 @@
 # README #
 
-There are two components to this commit. 
-1. Text file which includes 3 regular expressions used to match different things as described. 
-2. A script written in python. This project takes in a text file, parses the information (name, bats, hits) using a regular expression, and uses that information to display an ordered list of players batting averages.  
+### Who are you? ###
+* Robin Linzmayer
 
-### What is this repository for? ###
+### The going ons. ###
+Problem: Take in a text file of baseball player stats (We're in St. Louis so if you didn't expect the Cardinals people might be offended) and return a ranking of players for that season based on a calculated batting average. 
+Goals: Functionality and a better understanding of working in Python. 
 
-* Module 4, CSE 330
-* Robin Linzmayer, 438218 
+Included: 
+1. Textfile of data 
+2. Module4_BattingAvg.py - My first soluntion. A brute force, let's just iterate through some dictionaries, method of parsing input data and returning what a user wants. Original strive for functionality. 
+3. Module4_other.py - A more elegant solution! Always trying to make that code more modular. Here is a solution to the same problem using an object-oriented approach. Much nicer to look at, better run time. 
 
 ### How do I get set up? ###
 
