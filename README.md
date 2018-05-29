@@ -9,7 +9,7 @@ Goals: Functionality and a better understanding of working in Python.
 
 Included: 
 1. Textfile of data 
-2. brute_BattingAvg.py - My first soluntion. A brute force, let's just iterate through some dictionaries, method of parsing input data and returning what a user wants. Original strive for functionality. 
+2. brute_BattingAvg.py - My first solution. A brute force, let's just iterate through some dictionaries, method of parsing input data and returning what a user wants. Original strive for functionality. 
 3. battingAvg.py - A more elegant solution! Always trying to make that code more modular. Here is a solution to the same problem using an object-oriented approach. Much nicer to look at, better run time. 
 
 ### How do I get set up? ###
