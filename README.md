@@ -14,5 +14,6 @@ Included:
 
 ### How do I get set up? ###
 
-* Ussage: python3 battingAvg.py filename.txt
+* Ussage: python3 battingAvg.py cardinals-1940.txt
+
 
